@@ -1,6 +1,7 @@
 {
-  "name": "web",
+  "name": "nextjs-boilerplate",
   "version": "0.1.0",
+  "author": "Glauber Brack - glauber@brack.com.br",
   "private": true,
   "scripts": {
     "dev": "next dev",
